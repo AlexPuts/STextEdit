@@ -2,7 +2,7 @@
 #define PRINTER_H
 #pragma once
 #include <QWidget>
-#include <docwindow.h>
+#include <src/docwindow.h>
 class QPrinter;
 class QPaintDevice;
 

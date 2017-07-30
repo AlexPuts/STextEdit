@@ -3,7 +3,7 @@
 #include <QMainWindow>
 #include <QMenu>
 #pragma once
-#include <docwindow.h>
+#include <src/docwindow.h>
 #include <QApplication>
 #include<QMenuBar>
 #include<QStatusBar>

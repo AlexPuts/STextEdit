@@ -1,8 +1,8 @@
-#include "printer.h"
+#include "src/printer.h"
 #include <QPrinter>
 #include <QPrintDialog>
 #include <QPainter>
-#include "docwindow.h"
+#include "src/docwindow.h"
 Printer::Printer(QWidget *parent) : QWidget(parent)
 {
     printer = new QPrinter;

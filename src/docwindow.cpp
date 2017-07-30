@@ -1,9 +1,9 @@
-#include "docwindow.h"
+#include "src/docwindow.h"
 
 #include <QFileDialog>
 #include <QTextStream>
 #include <QPlainTextEdit>
-#include "printer.h"
+#include "src/printer.h"
 
 DocWindow::DocWindow(QWidget *parent) : QTextEdit(parent)
 {
